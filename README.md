@@ -52,4 +52,4 @@ npm run dev
 
 ## Pricing
 
-Freemium includes one spec. Pro is a one-time $39 purchase handled by Stripe.
+Freemium includes one spec. Pro will be released soon for a small purchase handling unlimited specs.
